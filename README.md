@@ -45,6 +45,7 @@ Check out the [sample page](?page=sample-page)
 ```
 
 **Check out the [sample page](?page=sample-page)** (link will work on the rendered site, not github.com).
+ [test](?page=test)
 
 _Note: if you need to use HTML elements that don't have a Markdown equivalent, you can simply add the HTML in the Markdown file. It will be ignored by the converter and kept as-is._
 
